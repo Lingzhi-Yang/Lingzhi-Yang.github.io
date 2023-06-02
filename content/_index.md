@@ -17,7 +17,7 @@ sections:
       items:
         - name: R
           # description: 90%
-          icon: linux
+          icon: r-project
           icon_pack: fab
         - name: Statistics
           # description: 100%
